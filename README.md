@@ -37,7 +37,7 @@ The 2008 financial crisis and COVID-19 market collapse exposed critical flaws in
 - **COVID-19 Test**: Assess responsiveness to March 2020 VIX surge.
 
 ## Workflow
-![image](https://github.com/user-attachments/assets/bf11874a-a45a-4623-81ff-6047e4a7cf41)
+![image](https://github.com/user-attachments/assets/e439035a-c6c2-4db6-9aa3-038d85886efa)
 
 
 ## Expected Results  
