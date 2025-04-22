@@ -1,10 +1,11 @@
 # Dynamic Value-at-Risk Engine: An Open-Source Solution for Real-Time Financial Risk Management
 
 **Authors**  
-- Mudit Gupta (220968094)  
-- Vansh Verma (220911622)  
-- Arjyabir Chatterjee (220953332)  
-- Tanuj Bajargan (220911520)  
+|------------------------|
+| Mudit Gupta | 220968094 |
+| Vansh Verma | 220911622 |  
+| Arjyabir Chatterjee | 220953332 | 
+| Tanuj Bajargan | 220911520 |
 
 ## Introduction  
 The 2008 financial crisis and COVID-19 market collapse exposed critical flaws in traditional Value-at-Risk (VaR) models, which underestimated tail risks due to rigid assumptions like normal return distributions. This project develops an open-source Dynamic VaR Engine combining Monte Carlo simulations with historical volatility scaling, optimized for single-node computation to democratize access to crisis-responsive risk tools for SMEs.
