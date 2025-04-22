@@ -1,6 +1,7 @@
 # Dynamic Value-at-Risk Engine: An Open-Source Solution for Real-Time Financial Risk Management
 
 **Authors**  
+| Name | Registration Number |
 |------------------------|
 | Mudit Gupta | 220968094 |
 | Vansh Verma | 220911622 |  
